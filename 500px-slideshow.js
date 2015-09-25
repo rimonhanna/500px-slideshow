@@ -26,8 +26,8 @@ var ikr500px = {
         this.populateLightboxContainer('body');
 
         jQuery(".ikr500px-lightbox-a").lightbox({
-            fileLoadingImage: "https://raw.githubusercontent.com/lokesh/lightbox2/master/src/images/loading.gif",
-            fileBottomNavCloseImage: "https://raw.githubusercontent.com/lokesh/lightbox2/master/src/images/close.png"
+            fileLoadingImage: "https://raw.githubusercontent.com/lokesh/lightbox2/master/dist/images/loading.gif",
+            fileBottomNavCloseImage: "https://raw.githubusercontent.com/lokesh/lightbox2/master/dist/images/close.png"
 
         });
 
